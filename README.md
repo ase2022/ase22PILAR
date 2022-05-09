@@ -30,6 +30,10 @@ Efficiency contains the data for section 5.2 efficiency part
 
 The data in FixedParameter folder and Logent_0.01.xlsx contains is also used for Section 5.2 accuracy part. Highest Accuracy.xlsx presents the summary for accuracy part.
 
+### Others
+
+Parameters.xlsx presents the default parameters used in different datasets for AEL, Drain, IPLoM, LenMa, Logram and Spell
+
 ## Source code for PILAR
 
 SourceCode contains the code for PILAR <br />
