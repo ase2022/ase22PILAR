@@ -14,6 +14,10 @@ FixedParameter contains the data for section 3.2
 
 Agreement contains the data for section 3.3
 
+Agreement.xlsx presents a summary of agreement result for AEL, Drain, IPLoM, LenMa, Logram and Spell
+
+Agreement_Logent.xlsx presents a summary of agreement result for PILAR
+
 ### Data for Section 5.1
 
 Logent_0.01.xlsx contains the data for section 5.1 part 1,2
